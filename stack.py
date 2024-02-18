@@ -115,7 +115,7 @@ def stack_checker(_stack):
         else:
             checker_res = "Не скобки"
             return checker_res
-        print(_dict)
+        #print(_dict)
         i += 1
 
     #checks for non-zero value
